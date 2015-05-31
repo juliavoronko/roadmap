@@ -1,0 +1,6 @@
+C:\Temp\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\AlgorithmsDataStructures.exe.config
+C:\Temp\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\AlgorithmsDataStructures.exe
+C:\Temp\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\AlgorithmsDataStructures.pdb
+C:\Temp\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\AlgorithmsDataStructures.csprojResolveAssemblyReference.cache
+C:\Temp\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\AlgorithmsDataStructures.exe
+C:\Temp\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\AlgorithmsDataStructures.pdb
